@@ -4,6 +4,14 @@ Simple Signin with RxActivityResult
 <a href='https://ko-fi.com/A243447K' target='_blank'><img height='36' style='border:0px;height:36px;'
 src='https://az743702.vo.msecnd.net/cdn/kofi4.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a><br>
 
+# Add dependencie to your project :
+
+```gradle
+dependencies {
+    compile 'com.github.datalink747:Rx_java2_soussidev:1.3'
+}
+```
+
 # Preview :
 
 * Disconnect :</br>
