@@ -49,10 +49,10 @@ dependencies {
 ```java
  setResult(RC_SIGN_IN , signInIntent);
 ```
-# SDK
-+ Target Sdk:<br>
+# SDK Required
++ Target sdk:<br>
 [![API](https://img.shields.io/badge/API-23%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=23)
-+ Min Sdk:<br>
++ Min sdk:<br>
 [![API](https://img.shields.io/badge/API-19%2B-orange.svg?style=flat)](https://android-arsenal.com/api?level=19)
 
 # Linkedin
